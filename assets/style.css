@@ -1,0 +1,17 @@
+body {
+display: flex;
+margin: 100px;
+}
+
+#id1 {
+    background-color: aquamarine;
+    width: 300px;
+    height: 200px;
+}
+
+.class1 {
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+    background-color: bisque;
+}
